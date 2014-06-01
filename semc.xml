@@ -33,7 +33,6 @@
 
   <!-- CyanogenMod projects with additional LX changes -->
   <remove-project name="CyanogenMod/android_frameworks_av" />
-  <remove-project name="CyanogenMod/android_frameworks_native" />
   <remove-project name="CyanogenMod/android_frameworks_webview" />
   <remove-project name="CyanogenMod/android_hardware_qcom_audio-caf" />
   <remove-project name="CyanogenMod/android_packages_apps_Browser" />
