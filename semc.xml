@@ -38,7 +38,7 @@
   <remove-project name="CyanogenMod/android_packages_apps_Browser" />
   <project name="ZoliN/android_frameworks_av" path="frameworks/av" remote="nz" />
   <project name="LegacyXperia/android_frameworks_webview" path="frameworks/webview" />
-  <project name="LegacyXperia/android_hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" />
+  <project name="ZoliN/android_hardware_qcom_audio-caf" path="hardware/qcom/audio-caf" />
   <project name="LegacyXperia/android_packages_apps_Browser" path="packages/apps/Browser" />
 
   <!-- CyanogenMod projects -->
