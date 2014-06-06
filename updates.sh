@@ -31,6 +31,6 @@ ${android}/build/tools/repopick.py -b ${cherries[@]}
 
 
 # Allow using Classic WebView
-cherries+=(CM_56054)
+cherries=(CM_56054)
 
 ${android}/vendor/extra/repopick.py -b ${cherries[@]}
