@@ -6,7 +6,7 @@
   <project name="ZoliN/local_manifests" path="vendor/extra" remote="nz" revision="cm-11.0-ion"/>
 
   <!-- LegacyXperia projects -->
-  <project name="LegacyXperia/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" />
+  <project name="ZoliN/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" revision="cm-11.0-ion" />
 
   <project name="LegacyXperia/android_device_semc_mogami-common" path="device/semc/mogami-common" />
   <project name="LegacyXperia/android_device_semc_anzu" path="device/semc/anzu" />
