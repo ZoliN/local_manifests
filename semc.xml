@@ -26,7 +26,7 @@
 
   <project name="ZoliN/proprietary_vendor_semc" path="vendor/semc" remote="nz" revision="cm-11.0-ion" />
 
-	<project name="LegacyXperia/android_external_webkit" path="external/webkit" />
+	<project name="ZoliN/android_external_webkit" path="external/webkit" />
 
   <project name="LegacyXperia/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="cm-11.0_old" />
 
